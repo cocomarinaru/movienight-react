@@ -1,0 +1,19 @@
+
+.movie-item h3 {
+	color: blue;
+}
+
+.movie-item p {
+	font-size: 0.8em;
+}
+
+.movie-item {
+
+	display: block;
+	width: 300px;
+	padding: 0px 10px;
+	margin-left: 10px;
+	border-width:  1px;
+	border-color: #eee;
+	border-style: solid;
+}
